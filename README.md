@@ -30,21 +30,27 @@ Run the frontend.py script to start the real-time sign language interpreter. The
 Installation
 Requirements
 Ensure you have Python 3.8 or above installed.
-Required Packages
-opencv-python
-mediapipe
-numpy
-scikit-learn
-tqdm
-pickle
-streamlit
+Required Packages,
+opencv-python,
+mediapipe,
+numpy,
+scikit-learn,
+tqdm,
+pickle,
+streamlit,
 
 Running the Project
+
 Clone or download the repository.
+
 Install the required libraries.
+
 Collect images for the dataset using create_dataset.py.
+
 Process the images and extract features using process_images.py.
+
 Train the Random Forest model using train_classifier.py.
+
 Run frontend.py to start the Streamlit app for real-time prediction.
 
 Collaborators
