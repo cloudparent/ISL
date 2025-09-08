@@ -53,5 +53,5 @@ Train the Random Forest model using train_classifier.py.
 
 Run frontend.py to start the Streamlit app for real-time prediction.
 
-Collaborators
-This project was developed by Durvesh Kanade [https://github.com/durvesh00011000100] and Aaryaman Kattali [https://github.com/TheGr8Ak]
+
+
